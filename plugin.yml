@@ -1,0 +1,9 @@
+name: Forzen
+main: arraylist.main
+version: 0.1
+
+commands:
+  frozen:
+    description: "凍結"
+  unfrozen:
+    description: "解凍"
